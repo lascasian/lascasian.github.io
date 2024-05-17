@@ -1,2 +1,2 @@
-# lascasian.github.io
-Corpus Lascasianum
+# Corpus Lascasianum
+
