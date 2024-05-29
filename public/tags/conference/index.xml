@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Corpus Lascasianum</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Corpus Lascasianum</description>
+    <title>Conference on Corpus Lascasianum</title>
+    <link>http://localhost:1313/tags/conference/</link>
+    <description>Recent content in Conference on Corpus Lascasianum</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 25 May 2024 01:38:54 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/conference/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
       <link>http://localhost:1313/2024-05-25-hello-world/</link>
