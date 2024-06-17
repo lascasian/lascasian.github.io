@@ -1,7 +1,7 @@
 ---
-title: "From the archives..."
+title: ""
 description: ""
-preview: "About the project"
+preview: ""
 draft: true
 tags: []
 categories: []
