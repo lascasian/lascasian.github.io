@@ -6,14 +6,6 @@
     <description>Recent content on Biblioteca Lascasiana</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 May 2024 01:38:54 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hello World</title>
-      <link>http://localhost:1313/2024-05-25-hello-world/</link>
-      <pubDate>Sat, 25 May 2024 01:38:54 +0000</pubDate>
-      <guid>http://localhost:1313/2024-05-25-hello-world/</guid>
-      <description>This is another test&#xA;This is a test</description>
-    </item>
   </channel>
 </rss>
