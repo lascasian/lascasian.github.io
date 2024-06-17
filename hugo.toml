@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://bib.lc'
 languageCode = 'en-us'
-title = 'Corpus Lascasianum'
+title = 'Biblioteca Lascasiana'
 theme = 'ananke'

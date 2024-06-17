@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Corpus Lascasianum</title>
-    <link>bib.lc/tags/</link>
-    <description>Recent content in Tags on Corpus Lascasianum</description>
+    <title>Tags on Biblioteca Lascasiana</title>
+    <link>https://bib.lc/tags/</link>
+    <description>Recent content in Tags on Biblioteca Lascasiana</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="bib.lc/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bib.lc/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
