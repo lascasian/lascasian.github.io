@@ -7,7 +7,7 @@ draft: true
 tags: [conference]
 categories:
     - news
-type: page
+type: post
 ---
 This is another test
 
