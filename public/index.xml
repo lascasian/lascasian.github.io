@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Biblioteca Lascasiana</title>
-    <link>https://bib.lc/</link>
-    <description>Recent content on Biblioteca Lascasiana</description>
+    <title>From the archives... on Biblioteca Lascasiana</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in From the archives... on Biblioteca Lascasiana</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://bib.lc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 May 2024 01:38:54 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/2024-05-25-hello-world/</link>
+      <pubDate>Sat, 25 May 2024 01:38:54 +0000</pubDate>
+      <guid>http://localhost:1313/2024-05-25-hello-world/</guid>
+      <description>This is another test&#xA;This is a test</description>
+    </item>
   </channel>
 </rss>
