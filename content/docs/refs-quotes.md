@@ -1,3 +1,12 @@
+---
+title: Refs and quotes
+description: "Documentation for adding refs and quotes."
+date: 2024-12-23T22:12:20.059Z
+preview: ""
+draft: true
+tags: []
+categories: []
+---
 # Guide for adding references and quotes
 
 IF there is a ```<quote>``` element, do it first!
