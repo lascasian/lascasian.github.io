@@ -1,9 +1,9 @@
-[submodule "themes/ananke"]
-	path = themes/ananke
-	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
 [submodule "themes/nojs"]
 	path = themes/nojs
 	url = https://github.com/stevenengler/no-js-hugo-theme.git
 [submodule "themes/blank"]
 	path = themes/blank
 	url = https://github.com/Vimux/blank.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git

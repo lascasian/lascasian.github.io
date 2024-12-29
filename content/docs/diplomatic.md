@@ -1,6 +1,6 @@
 ---
 title: Diplomatic
-description: "Docs for diplomatic rendering."
+description: "Documentation for diplomatic transcription."
 date: 2024-12-23T22:12:20.059Z
 preview: ""
 draft: true

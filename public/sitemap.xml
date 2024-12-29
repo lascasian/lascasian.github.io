@@ -2,11 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://bib.lc/home/</loc>
-    <lastmod>2024-12-29T06:42:30+00:00</lastmod>
-  </url><url>
     <loc>https://bib.lc/</loc>
-    <lastmod>2024-12-29T06:42:30+00:00</lastmod>
+    <lastmod>2024-12-23T22:12:20+00:00</lastmod>
+  </url><url>
+    <loc>https://bib.lc/docs/</loc>
+    <lastmod>2024-12-23T22:12:20+00:00</lastmod>
+  </url><url>
+    <loc>https://bib.lc/docs/post-pull/</loc>
+  </url><url>
+    <loc>https://bib.lc/docs/refs-quotes/</loc>
   </url><url>
     <loc>https://bib.lc/categories/</loc>
   </url><url>

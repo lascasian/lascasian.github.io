@@ -6,14 +6,21 @@
     <description>Recent content on Biblioteca Lascasiana</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Dec 2024 06:42:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://bib.lc/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
-      <link>https://bib.lc/home/</link>
-      <pubDate>Sun, 29 Dec 2024 06:42:30 +0000</pubDate>
-      <guid>https://bib.lc/home/</guid>
-      <description>&lt;p&gt;A growing, linked library featuring the works, sources, and interlocutors of Bartolomé de las Casas.&lt;/p&gt;</description>
+      <title></title>
+      <link>https://bib.lc/docs/post-pull/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bib.lc/docs/post-pull/</guid>
+      <description>&lt;h1 id=&#34;post-pull&#34;&gt;Post pull&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;scan for and fix white space problems&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;add links for references and quotes&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://bib.lc/docs/refs-quotes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bib.lc/docs/refs-quotes/</guid>
+      <description>&lt;h1 id=&#34;guide-for-adding-references-and-quotes&#34;&gt;Guide for adding references and quotes&lt;/h1&gt;&#xA;&lt;p&gt;IF there is a &lt;code&gt;&amp;lt;quote&amp;gt;&lt;/code&gt; element, do it first!&lt;/p&gt;&#xA;&lt;h2 id=&#34;quote-always-and-ref-if-quote-not-present&#34;&gt;quote (always) AND ref (if quote not present)&lt;/h2&gt;&#xA;&lt;p&gt;find the corresponding range,&#xA;add html address with a &lt;code&gt;&amp;lt;ref xml:id=&amp;quot;XMIrefID&amp;quot; source=&amp;quot;http://ADDRESS&amp;quot;&amp;gt;&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;IF only ref or quote, you are done&lt;/p&gt;&#xA;&lt;p&gt;IF both, to ref element then add &amp;lt;ref xml:id=&amp;ldquo;XMLID&amp;rdquo; corresp=&amp;ldquo;XMLID of referenced quote.&amp;rdquo;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
