@@ -6,7 +6,14 @@
     <description>Recent content in Docs on Biblioteca Lascasiana</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://bib.lc/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Latin Style</title>
+      <link>https://bib.lc/docs/latin-style/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bib.lc/docs/latin-style/</guid>
+      <description>&lt;h1 id=&#34;replacements&#34;&gt;Replacements&lt;/h1&gt;&#xA;&lt;p&gt;In general, we follow the medieval manuscript tradition. Thus&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ut → Vt, ut → vt&lt;/li&gt;&#xA;&lt;li&gt;J → I, j → i (ij → ii)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;When text/handwriting recognition has been used, certain errors are frequent, and can be easily corrected with find and replace:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;babe → habe&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
   </channel>
 </rss>
